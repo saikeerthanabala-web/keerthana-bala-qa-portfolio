@@ -3,7 +3,7 @@
 Static portfolio site: plain HTML, CSS and JavaScript. No build step.
 
 ## Structure
-- `index.html` - page content (search for `[` to find placeholders to fill in)
+- `index.html` - page content
 - `css/style.css` - styles, light/dark theme tokens at the top
 - `js/main.js` - theme toggle, sample test run, project pop-ups, skills search
 - `assets/` - put your photo and resume PDF here
